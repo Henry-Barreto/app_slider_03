@@ -1,7 +1,7 @@
-- [ ] Implementar App.js com app de questionário
-- [ ] Incluir TextInput para Nome
-- [ ] Incluir Picker para Curso
-- [ ] Renderizar 10 perguntas com Slider (Likert 1–5, step=1)
-- [ ] Botão “Ver resultado” para validar preenchimento e calcular total/média + pontuação por pergunta
-- [ ] Garantir UI em ScrollView e exibição clara do resultado
-- [ ] Validar funcionamento no Expo (sem erros de import/estado)
+- [ x ] Implementar App.js com app de questionário
+- [ x ] Incluir TextInput para Nome
+- [ x ] Incluir Picker para Curso
+- [ x ] Renderizar 10 perguntas com Slider (Likert 1–5, step=1)
+- [ x ] Botão “Ver resultado” para validar preenchimento e calcular total/média + pontuação por pergunta
+- [ x ] Garantir UI em ScrollView e exibição clara do resultado
+- [ x ] Validar funcionamento no Expo (sem erros de import/estado)
